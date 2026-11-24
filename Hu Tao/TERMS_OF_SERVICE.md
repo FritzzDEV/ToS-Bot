@@ -7,7 +7,7 @@
 
 ## 1. Who provides Hu Tao
 
-Hu Tao is operated by **[operator’s legal name or organization]** (“we,” “us,” or “the operator”). For support or legal notices, contact **[support email or support server URL]**.
+Hu Tao is operated by **Helunemi Studio**. For support or legal notices, contact **Helunemi.center@gmail.com**.
 
 Hu Tao is an independently operated fan bot. It is not affiliated with, endorsed by, or sponsored by Discord, HoYoverse, or the creators of Genshin Impact.
 
@@ -49,4 +49,4 @@ Our collection and use of information is described in the separate [Privacy Poli
 
 We may update these Terms as the bot changes. The latest version will be published at the policy URL supplied for Hu Tao in Discord’s Developer Portal. Continued use after an update takes effect means you accept the updated Terms, to the extent permitted by law.
 
-Questions or reports about Hu Tao: **[support email or support server URL]**.
+Questions or reports about Hu Tao: **Helunemi.center@gmail.com**.
