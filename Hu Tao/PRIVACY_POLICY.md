@@ -3,11 +3,11 @@
 **Effective date:** November 24, 2026  
 **Last updated:** November 24, 2026
 
-> **Before publishing:** Replace every bracketed operator and contact placeholder. This draft reflects the current bot code and is not legal advice.
+> **NOTE:** Hu Tao is currently getting updated. This bot is an early release and may have bugs and errors.
 
 ## 1. Operator and contact
 
-Hu Tao is operated by **[operator’s legal name or organization]** (“we,” “us,” or the “operator”). Privacy and data requests can be sent to **[privacy contact email or support server URL]**.
+Hu Tao is operated by **Helunemi Studio** (“we,” “us,” or the “operator”). Privacy and data requests can be sent to **helunemi.center@gmail.com**.
 
 This policy covers the Hu Tao bot and its associated Helunemi Game Parlor Discord Activity. It does not replace Discord’s or the Helunemi website’s own privacy terms.
 
@@ -39,7 +39,7 @@ Access to the local data file depends on who controls the machine and its backup
 
 The bot keeps owner-created settings and notes until they are changed or deleted by the operator, or the data file is deleted. The current bot has no automatic expiration for these records. Message text and moderation-event details are not retained by Hu Tao after the event or reply is handled, apart from content the owner intentionally saves as a note or custom reply. Activity room state lasts for the active room and is held in memory; the Activity account-link token stays in browser local storage until unlinked, removed by the user, cleared, or expired under the Helunemi API’s token rules. Helunemi website records are subject to the website’s retention practices.
 
-To request access, correction, or deletion of saved Hu Tao settings or notes, contact **[privacy contact email or support server URL]** and identify the server and the relevant item. We will verify the request as reasonably necessary and handle it within the period required by applicable law. Discord messages already sent by the bot remain subject to Discord’s own retention and deletion controls.
+To request access, correction, or deletion of saved Hu Tao settings or notes, contact **helunemi.center@gmail.com** and identify the server and the relevant item. We will verify the request as reasonably necessary and handle it within the period required by applicable law. Discord messages already sent by the bot remain subject to Discord’s own retention and deletion controls.
 
 If the bot is removed or shut down, the server’s local data file may remain on the operator’s machine until the operator deletes it. Ask the operator to remove that server’s records if desired. A player can unlink the Activity account on that device or clear the browser’s local storage. To request deletion of the linked Helunemi website account data, use the website’s account support or contact the operator.
 
@@ -53,7 +53,7 @@ Hu Tao does not knowingly request age or identity documents. Use of Hu Tao is su
 
 ## 8. International processing and third parties
 
-Discord processes Discord account and message information under its own privacy policy. The machine running Hu Tao may be located in a different country from you. The operator should add details about any hosting provider used to run the bot here: **[hosting provider and relevant privacy-policy link, if applicable]**.
+Discord processes Discord account and message information under its own privacy policy. The machine running Hu Tao may be located in a different country from you. The Bot's server runs on Helunemi's Owner Computer.
 
 ## 9. Changes
 
@@ -61,6 +61,6 @@ We may update this Privacy Policy when the bot’s features or data handling cha
 
 ## 10. Contact
 
-Privacy questions or requests: **[privacy contact email or support server URL]**.
+Privacy questions or requests: **Helunemi.center@gmail.com**.
 
 Discord’s own Privacy Policy is available at [discord.com/privacy](https://discord.com/privacy).
