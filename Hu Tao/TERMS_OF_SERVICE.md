@@ -3,7 +3,7 @@
 **Effective date:** November 24, 2026  
 **Last updated:** November 24, 2026
 
-> **Before publishing:** Replace every bracketed operator and contact placeholder in both this document and `PRIVACY_POLICY.md`. These drafts describe the current bot code; they are not legal advice.
+> **NOTE:** Hu Tao is currently getting updated. This bot is an early release and may have bugs and errors.
 
 ## 1. Who provides Hu Tao
 
